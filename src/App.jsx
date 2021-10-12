@@ -1,6 +1,6 @@
 import React from "react";
 import Table from "./Table";
-import List from "./List"
+import List from "./List"; 
 
 class App extends React.Component {
   constructor(props) {
@@ -90,7 +90,6 @@ class App extends React.Component {
         <div className="Box Box--spacious f4">
           <div className="Box-header">
             <h3 className="Box-title d-flex flex-justify-center">GradeBook</h3>
-          
           </div>
         </div>
         <nav className="UnderlineNav d-flex flex-justify-center">
